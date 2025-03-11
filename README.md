@@ -24,7 +24,7 @@ This Python script helps you identify dangerous permissions in an AWS IAM role b
 ------------------------------------------------------------
 1. Clone the Repository:
 ```bash
-git clone https://github.com/ro-nitin/All.git
+git clone https://github.com/ro-nitin/AWS
 cd aws-iam-dangerous-permissions-checker
 ```
 2. Install Dependencies:
