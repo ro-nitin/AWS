@@ -118,14 +118,3 @@ If you encounter any issues or have questions, please open an issue on GitHub.
 Nitin Basera
 https://github.com/ro-nitin/All/
 
-------------------------------------------------------------
- Repository Structure
-------------------------------------------------------------
-```
-aws-iam-dangerous-permissions-checker/
-├── check_dangerous_permissions.py  # Main script
-├── README.md                       # Project documentation
-├── LICENSE                         # License file
-└── requirements.txt                # Python dependencies
-```
-============================================================
