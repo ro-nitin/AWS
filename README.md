@@ -32,7 +32,7 @@ cd aws-iam-dangerous-permissions-checker
 pip install boto3
 ```
 3. Configure AWS Credentials:
-aws configure
+Ensure that AWS credentials are already added to the .aws/credentials file.
 ```
 
 ------------------------------------------------------------
